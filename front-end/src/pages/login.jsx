@@ -48,7 +48,7 @@ function Login() {
                     <h2>Login</h2>
                     User Name<input type="text" className="userName-input" /> <br />
                     Password<input type="password" className="password-input" /> <br />
-                    <button type="submit" className="login-button">Submit</button> <br />
+                    <button type="submit" className="login-button">Login</button> <br />
                     <Link to={'/signup'} className='link-1'>New User? <span className="signup">Sign Up here</span></Link>
                 </form>
             </div>

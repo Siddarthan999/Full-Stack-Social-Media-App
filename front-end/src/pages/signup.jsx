@@ -55,7 +55,7 @@ function SignUp() {
                     Email<input type="email" className="email" required /> <br />
                     User Name<input type="text" className="user-name" required /> <br />
                     Enter New Password<input type="password" className="new-password" required /> <br />
-                    <button type="submit" className="signup-button">Submit</button> <br />
+                    <button type="submit" className="signup-button">Register</button> <br />
                     <Link to={'/'} className='link-2'>Already Registered? <span className="login">Login here</span></Link>
                 </form>
             </div>
